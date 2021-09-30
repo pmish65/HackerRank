@@ -8,6 +8,6 @@ public class Tester {
 		list.add(1);
 		list.add(3);
 		list.add(2);
-		System.out.println(Solution.slidingWindow(list, 3, 2));
+		System.out.println(Solution.slidingWindow(list, 3));
 	}
 }
