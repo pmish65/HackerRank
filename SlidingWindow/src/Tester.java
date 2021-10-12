@@ -9,5 +9,11 @@ public class Tester {
 		list.add(3);
 		list.add(2);
 		System.out.println(Solution.slidingWindow(list, 3));
+		StringBuilder sb = new StringBuilder();
+		sb.append("p");
+		sb.append("i");
+		sb.insert(0,"so");
+		System.out.println(sb);
+		
 	}
 }
